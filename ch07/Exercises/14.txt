@@ -16,3 +16,9 @@ Order of presendence is
 Cast (3)
 Subtraction (5)
 Assignment (15)
+
+Although, this does not work correctly in every scenario,
+
+Converting f to int will fail if the value stored in f exceeds the largest value of type int. 
+
+Therefore the final answer is : No.
